@@ -1,6 +1,7 @@
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import Navbar from './Component/Navbar';
-import '../../Neelam_Nursing/src/App.css'
+import "./App.css"; 
+// import '../../Neelam_Nursing/src/App.css'
 import Hero from './Component/Hero';
 import Services from './Component/Services';
 import AboutUs from './Component/AboutUs';
